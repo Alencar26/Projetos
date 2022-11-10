@@ -18,29 +18,19 @@ public class QuadradosPerfeitos {
         for (int i=1; i < n; i++) {
             double raiz = Math.sqrt(i);
             if ((int) raiz == raiz) {
-                quadradosPerfeitos.add(0,i);
+                quadradosPerfeitos.add(i);
             }
         }
         return quadradosPerfeitos;
     }
 
     public static int quantidadeNecessariaParaChegarEm(int valor, List<Integer> lista) {
-       int contador = 0;
-        for(int i = 0; i < lista.size(); i++) {
-           int aux = valor;
-           int contadorAux = 0;
-           for(int j = i; j < lista.size(); j++) {
-               while(aux - lista.get(j) >= 0) {
-                   aux -= lista.get(j);
-                   contadorAux++;
-               }
-           }
-           if(aux == 0) {
-               if (contadorAux < contador || contador == 0) {
-                   contador = contadorAux;
-               }
-           }
-       }
+       int contador = 0, aux = 0, index = lista.size() -1;
+        do {
+            
+
+            index--;
+        } while (index >= 0);
         return contador;
     }
 }
