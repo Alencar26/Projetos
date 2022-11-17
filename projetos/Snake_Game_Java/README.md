@@ -2,6 +2,8 @@
 
 Jogo foi desenvolvido como projeto de conclusão do módulo de Padrões de Projetos do bootcamp da DIO em parceiria com o Ifood (Potência Tech).
 
+![logo](https://github.com/Alencar26/Projetos/blob/main/projetos/Snake_Game_Java/img/logo.png)
+
 Conceitos desenvolvidos no projeto:
 - Lista encadeada
 - Manipulação de objeto em matriz bidimensional
@@ -10,9 +12,7 @@ Conceitos desenvolvidos no projeto:
 - Mecânica de captura de evento dentro do game
 - Exceção personalizada para controlar o fluxo do game
 - Tratamento de exceção
-
-![logo](https://github.com/Alencar26/Projetos/blob/main/projetos/Snake_Game_Java/img/logo.png)
-
+- 
 ## Diagrama UML
 
 Game foi desenvolvido de forma ágil, ocorreram algumas mudanças ao logo do desenvolvimento e há várias lacunas para melhoria e implementação de novos padrões como o Observator que pode ser implementado de forma rápida para complementar o projeto.
