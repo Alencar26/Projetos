@@ -12,7 +12,7 @@ Conceitos desenvolvidos no projeto:
 - Mecânica de captura de evento dentro do game
 - Exceção personalizada para controlar o fluxo do game
 - Tratamento de exceção
-- 
+
 ## Diagrama UML
 
 Game foi desenvolvido de forma ágil, ocorreram algumas mudanças ao logo do desenvolvimento e há várias lacunas para melhoria e implementação de novos padrões como o Observator que pode ser implementado de forma rápida para complementar o projeto.
