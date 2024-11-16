@@ -1,0 +1,157 @@
+Português,Raciocínio Lógico e Matemático,Legislação,Conhecimentos Específicos
+1. Compreensão e interpretação de texto,"1.1. Operações com números inteiros e racionais (adição, subtração, multiplicação, divisão, potenciação)",1. Lei Orgânica e Estatuto do Ministério Público do Estado do Paraná (Lei Complementar Estadual nº 85/1999),1. Desenvolvimento de software
+2. Tipos e gêneros textuais,1.2. Múltiplos e divisores,2. Estatuto dos Servidores do Ministério Público do Paraná (Lei Estadual nº 20.640/2021),1.1. Conceitos de engenharia de software
+3. Figuras de linguagem,1.3. Resolução de problemas,3. Lei nº 12.527/2011 – Lei de Acesso à Informação,1.2. Orientação a objetos
+4. Significação de palavras e expressões,"1.4. Razão, proporção, regra de três",4. Resolução 89/2012 do CNMP,"1.2.1. Conceitos fundamentais, análise, modelagem e padrões de projeto"
+5. Relações de sinonímia e de antonímia,"1.5. Porcentagem, Juros Simples e Compostos","5. Lei geral de proteção de dados (LGPD), Lei nº 13.709/2018",1.3. Padrões de arquitetura MVC (Model View Controller) e DDD (Domain Driven Design)
+6. Ortografia,"1.6. Grandezas e medidas (quantidade, tempo, comprimento, superfície, capacidade e massa)",6. Prioridade de atendimento às pessoas com deficiência (Lei nº 10.048/2000),"1.4. Ferramentas de desenvolvimento de software (ferramentas CASE), linguagem UML 2.5, modelagem de processos com BPMN (versão 2.0 ou superior)"
+7. Acentuação gráfica,"1.7. Resolução de situações e problemas que envolvam os conceitos de antecessor/sucessor, par/ímpar, maior/menor, largo/estreito, comprido/curto, grosso/fino, alto/baixo, pesado/leve, metade, dobro, triplo",,1.5. Conceitos e técnicas DevSecOp
+8. Uso da crase,1.8. Noções de Análise Combinatória e probabilidade,,1.5.1. Integração e Entrega Contínua
+9. Morfologia: classes de palavras variáveis e invariáveis e seus empregos no texto,"1.9. Conceitos básicos de estatística para tratamento de informações (Média aritmética, leitura e interpretação de tabelas e gráficos)",,1.5.2. Infraestrutura como código
+10. Locuções verbais (perífrases verbais),1.10. Equações e sistemas de equações de 2º grau,,1.5.3. Conceitos e padrões de arquitetura orientada a microsserviços
+11. Funções do “que” e do “se”,Raciocínio Lógico-matemático:,,1.5.4. Contêineres
+12. Formação de palavras,"2.1. Estrutura lógica de relações arbitrárias entre pessoas, lugares, objetos ou eventos fictícios",,1.5.5. Orquestração de contêineres
+13. Elementos de comunicação,2.2. Deduzir novas informações das relações fornecidas e avaliar as condições usadas para estabelecer a estrutura daquelas relações,,1.5.6. Docker
+"14. Sintaxe: relações sintático-semânticas estabelecidas entre orações, períodos ou parágrafos (período simples e período composto por coordenação e subordinação)","2.3. Compreensão e elaboração da lógica das situações por meio de raciocínio verbal, raciocínio matemático, raciocínio sequencial, orientação espacial e temporal, formação de conceitos, discriminação de elementos",,1.5.7. Kubernetes
+15. Concordância verbal e nominal,"2.4. Compreensão do processo lógico que, a partir de um conjunto de hipóteses, conduz, de forma válida, a conclusões determinadas",,1.5.8. Git
+16. Regência verbal e nominal,2.5. Quantificadores,,"1.5.9. Técnicas de análise de segurança: SAST, DAST, AST, SCA, segurança de infraestrutura como código, segurança de contêineres, IAM e ASM"
+17. Colocação pronominal,2.6. Equivalências Lógicas,,1.6. Arquitetura de software
+18. Emprego dos sinais de pontuação e sua função no texto,,,"1.6.1. Cliente/servidor, web, microsserviços e dispositivos móveis"
+19. Elementos de coesão,,,1.7. Análise de negócios
+20. Função textual dos vocábulos,,,1.8. Conceitos de linguagem de programação Java (versão 8 ou superior)
+21. Variação linguística,,,1.9. Qualidade de software
+,,,1.9.1. Teste unitário
+,,,1.9.2. Teste de Integração
+,,,1.9.3. Teste de Sistema
+,,,1.9.4. Teste de Aceitação
+,,,1.9.5. Teste de Usabilidade
+,,,1.10. Conceitos de desenvolvimento web e mobile
+,,,1.10.1. Fundamentos de HTML
+,,,1.10.2. Linguagens JavaScript e TypeScript
+,,,1.10.3. Node.js
+,,,1.10.4. Design responsivo
+,,,1.10.5. JSON
+,,,1.10.6. React
+,,,1.10.7. React Native
+,,,1.10.8. Técnicas de proteção de aplicações web
+,,,1.11. Web Services
+,,,1.11.1. Padrão REST
+,,,2. Gestão de Projetos
+,,,2.1. Metodologias e guias aplicados à gestão de projetos
+,,,2.1.1. PMBOK 7ª Edição
+,,,2.1.2. Agile
+,,,2.1.3. Scrum
+,,,2.1.4. Kanban
+,,,2.1.5. Lean
+,,,2.1.6. Design Thinking
+,,,2.2. Governança de TI
+,,,2.2.1. COBIT 2019
+,,,2.2.2. ITIL 4
+,,,2.3. Engenharia de requisitos
+,,,2.4. Qualidade de software
+,,,3. Análises de dados e informações
+,,,"3.1. Coleta, tratamento, armazenamento, integração e recuperação de dados"
+,,,3.2. Modelagem dimensional
+,,,3.3. Big Data
+,,,3.4. Conceitos de Business Intelligence
+,,,3.4.1. Com Qlik Sense e Google Looker
+,,,3.5. Mineração de dados
+,,,3.6. Técnicas para pré-processamento de dados
+,,,3.7. Técnicas e tarefas de mineração de dados
+,,,3.8. Aprendizado de Máquina
+,,,3.9. Classificação
+,,,3.10. Regras de associação
+,,,3.11. Agrupamento
+,,,3.12. Redes Neurais Artificiais
+,,,3.13. Deep Learning
+,,,"3.14. Processamento de Linguagem Natural (PLN) (Análise de Sentimentos, Classificação de textos, Análise de tópicos)"
+,,,3.15. Tipos de análise de dados
+,,,3.16. Análise descritiva
+,,,3.17. Análise preditiva
+,,,3.18. Análise prescritiva
+,,,3.19. Visualização e análise exploratória de dados
+,,,"3.20. Python e suas bibliotecas (pandas, numpy, matplotlib, scikit-learn)"
+,,,4. Noções de estatística
+,,,4.1. Metodologia e utilização da estatística. Variáveis quantitativas e qualitativas. Séries estatísticas
+,,,4.2. Organização e apresentação de variáveis
+,,,4.3. Estatística descritiva e análise exploratória de dados
+,,,"4.4. Distribuição de frequências: absoluta, relativa, acumulada"
+,,,"4.5. Medidas de posição: média, moda, mediana e separatrizes"
+,,,"4.6. Medidas de dispersão: desvio padrão, variância, coeficiente de variação. Correlação"
+,,,4.7. Histogramas e curvas de frequência
+,,,4.8. Diagrama boxplot
+,,,4.9. Avaliação de outliers
+,,,4.10. Análise de dados categorizados
+,,,5. Segurança da informação
+,,,5.1. Conceitos de segurança da informação
+,,,5.1.1. Classificação de informações
+,,,5.1.2. Procedimentos de segurança
+,,,5.1.3. Auditoria e conformidade
+,,,"5.1.4. Confiabilidade, integridade e disponibilidade"
+,,,5.1.5. Controle de acesso
+,,,"5.1.5.1. Identificação, Autorização e Autenticação"
+,,,5.1.5.2. Gestão de identidades
+,,,5.1.6. Métricas e indicadores em segurança da informação
+,,,5.2. Criptografia
+,,,"5.2.1. Conceitos de criptografia, aplicações, sistemas criptográficos simétricos e de chave pública"
+,,,5.2.2. Modos de operação de cifras
+,,,5.2.3. Certificação e assinatura digital
+,,,"5.2.4. Características do RSA, DES e AES"
+,,,5.2.5. MD5 e SHA‐1
+,,,5.2.6. Análise de vulnerabilidade
+,,,5.3. Gestão de segurança da informação
+,,,5.3.1. NBR ISO/IEC Família 27001:2022 e NBR ISSO/IEC 27002:2022
+,,,5.3.2. Classificação e controle de ativos de informação
+,,,5.3.3. Segurança de ambientes físicos e lógicos
+,,,5.3.4. Controles de acesso
+,,,"5.3.5. Definição, implantação e gestão de políticas de segurança e auditoria"
+,,,5.4. Gestão de riscos
+,,,5.4.1. NBR ISO/IEC 22301 e 27005:2023
+,,,"5.4.2. Planejamento, identificação e análise de riscos"
+,,,5.4.3. Plano de continuidade de negócio
+,,,5.5. Segurança de aplicações
+,,,5.5.1. Segurança em banco de dados
+,,,5.5.2. Desenvolvimento seguro de software
+,,,5.6. Segurança de aplicativos web
+,,,5.6.1. Conceitos de segurança de aplicativos web
+,,,5.6.2. Vulnerabilidades em aplicativos web
+,,,5.6.3. Análise de vulnerabilidades em aplicações web
+,,,6. Banco de dados
+,,,"6.1. Modelagem de dados, conceitual e semântica"
+,,,6.2. Modelo de Entidades e Relacionamentos
+,,,6.3. Projeto de bancos de dados: teoria. Dependências funcionais
+,,,6.4. Normalização
+,,,6.5 Linguagem SQL
+,,,6.6. Banco de dados relacionais
+,,,6.7. Banco de dados NoSQL
+,,,6.8. Bancos de dados transacionais (OLTP) e analíticos (OLAP)
+,,,6.9. Consultas e subconsultas
+,,,"6.10. Comandos de consulta, inserção, alteração e remoção de registros"
+,,,6.11. Interfaces de utilização: principais propriedades e características das bibliotecas mais difundidas
+,,,6.12. ODBC
+,,,6.13. Camadas de persistência
+,,,"6.14. Algoritmos de busca e indexação: sequenciais, árvores, hinashg, bitmaps"
+,,,6.15. Gerenciadores de bancos de dados
+,,,"6.16. Conhecimentos de Oracle 21c ou posterior, PostgreSQL 16 ou posterior"
+,,,7. Segurança de redes
+,,,7.1. Microsegmentação de redes
+,,,7.2. Sistemas de firewall
+,,,7.3. Firewall de Aplicação Web (WAF)
+,,,7.4. Detectores de intrusão (IDS e IPS)
+,,,7.5. Analisadores de tráfegos de rede (Sniffers)
+,,,7.6. Virtual Private Networks (IPSEC VPN e SSL VPN)
+,,,7.7. Defesa de perímetros
+,,,"7.8. EDR, XDR, ZTNA"
+,,,7.9. Topologias de redes seguras
+,,,7.10. Segurança de ativos de rede (switches e roteadores)
+,,,7.11. Segurança em redes wireless
+,,,7.12. ARP Spoofing
+,,,7.13. DNS Poisoning
+,,,8. Redes de computadores
+,,,8.1. Arquitetura TCP/IP
+,,,8.2. IPv4 e IPv6
+,,,8.3. IPSec
+,,,8.4. Roteamento
+,,,8.5. BGP
+,,,8.6. OSPF
+,,,8.7. Técnicas de balanceamento de carga
